@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: mohammed2411/backend:050f2d264c99bbb96945dae6d97427ff95126047
+          image: mohammed2411/backend:b26e0fd06dcf00cc05505818fb6417c8cf52c951
           ports:
             - containerPort: 5000
           env:
