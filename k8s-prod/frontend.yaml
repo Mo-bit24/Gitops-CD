@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: mohammed2411/frontend:886e5480d4ae02dbed4045c4e029a8a71fb65c60
+          image: mohammed2411/frontend:7a16ee1a5466ac088dc6807f380c738a95913a2b
           ports:
             - containerPort: 80
 ---
